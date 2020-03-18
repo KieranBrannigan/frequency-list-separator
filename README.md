@@ -1,2 +1,6 @@
 # frequency-list-separator
-Separate frequency lists by their morphological type (noun, verb etc.)
+Python script to separate frequency lists by their morphological type (noun, verb etc.)
+
+DEPENDENCIES:
+    -JIEBA for chinese
+    -MECAB for japanese
